@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<HTML>
+  <head>
+    <title>Bienvenidos</title>
+  </head>
+  <body>
+    <div id="una copa">
+      <h1>HOLA!</h1>
+      <p>BIENVENIDOS.</p>
+    </div>
+   </body>
+</HTML>
